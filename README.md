@@ -1,1 +1,1 @@
-# chat-app-webscoket
+# chat-app-webscoket using nodejs websocket concept and dockerization of an app
